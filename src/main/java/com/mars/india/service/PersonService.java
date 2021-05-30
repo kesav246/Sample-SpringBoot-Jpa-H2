@@ -5,9 +5,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.mars.india.exception.NotFoundException;
 import com.mars.india.model.Person;
 import com.mars.india.repository.PersonRepository;
-import com.mars.india.util.NotFoundException;
 
 @Service
 public class PersonService {

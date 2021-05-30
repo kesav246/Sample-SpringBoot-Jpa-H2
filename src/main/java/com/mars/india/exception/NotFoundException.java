@@ -1,4 +1,4 @@
-package com.mars.india.util;
+package com.mars.india.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
