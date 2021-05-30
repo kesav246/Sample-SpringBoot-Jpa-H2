@@ -26,8 +26,24 @@ To build and test, you can run:
 $ ./mvn clean install
 A jar file will created in target folder
 
-To run the jar file, you can run:
+
+## Run the application
+
+To run the jar file, you can run:  
 $ java -jar target/mars-india-0.0.1-SNAPSHOT.jar
+
+
+## Swagger UI
+
+To access Swagger UI for testing, you can use belo url:  
+http://localhost:8081/swagger-ui.html#/person45controller
+
+
+
+
+
+
+
 
 
 
