@@ -27,7 +27,7 @@ $ ./mvn clean install
 A jar file will created in target folder
 
 To run the jar file, you can run:
-java -jar target/mars-india-0.0.1-SNAPSHOT.jar
+$ java -jar target/mars-india-0.0.1-SNAPSHOT.jar
 
 
 
